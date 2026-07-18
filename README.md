@@ -45,9 +45,6 @@ harder-to-fill roles.
 
 
 <img width="1226" height="618" alt="image" src="https://github.com/user-attachments/assets/6fcaf7fa-b57c-4ee2-9dc4-e01a180389e4" />
-[Project files](./project-1/)
-
-
 ---
 
 ## About the data
